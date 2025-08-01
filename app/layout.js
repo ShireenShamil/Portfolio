@@ -14,8 +14,6 @@ const ova = Ovo({
 });
 
 
-
-
 export const metadata = {
   title: "Portfolio - Shireen Shamil",
   description: "",
